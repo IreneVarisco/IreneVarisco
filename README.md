@@ -1,4 +1,7 @@
-throw some bread please quack quack
+I'm a duck
+and I quack
+I'm not good in poetry
+give daa breaaad!(quack)
 <!--
 **IreneVarisco/IreneVarisco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

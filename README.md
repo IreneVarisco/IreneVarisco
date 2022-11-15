@@ -1,4 +1,4 @@
-Hot Food
+currently learnin python 🐍
 <!--
 **IreneVarisco/IreneVarisco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

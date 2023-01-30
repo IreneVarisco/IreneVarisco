@@ -7,7 +7,7 @@
   <span>
     How to reach me:&nbsp;
     <a href="https://www.instagram.com/var.iabile/">
-      <img align="center" src="https://i.gifer.com/2mvh.gif" alt="Instagram">
+      <img align="center" src="http://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/9cd12cf3979e388.png" alt="Instagram">
     </a>
   </span>
 </li>

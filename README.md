@@ -5,7 +5,7 @@
 </li>
 <li>
   <span>
-    📫 How to reach me:&nbsp;
+    How to reach me:&nbsp;
     <a href="https://www.instagram.com/var.iabile/">
       <img align="center" src="https://img.shields.io/badge/Instagram-@var.iabile-E4405F?logo=instagram&style=for-the-badge" alt="Instagram">
     </a>

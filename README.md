@@ -1,6 +1,6 @@
 <li>
   <span>
-  Currently learning Python 🐍
+    Used languages: Java, Go, Php/sql, Javascript, Assembly
   </span>
 </li>
 <li>
